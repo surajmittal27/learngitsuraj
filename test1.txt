@@ -1,1 +1,2 @@
 this is a test file and serves no useful purpose
+this is a small change
